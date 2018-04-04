@@ -1,4 +1,4 @@
-Issue - Cannot use Structuremap in the traditional sense in the ADS because Worker.Process calls static Run Methods and Processors inherit from an Abstract Class.
+Issue - Cannot use Structuremap in the traditional sense in the ADS because Worker.Process calls static Run Methods and Processors inherit from an Abstract Class.  This POC shows how to introduce Structuremap into ADS in a clean and non-intrusive manner.
 
 Look at:
 
